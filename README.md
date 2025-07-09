@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Web3 Explorer | Future Smart Contract Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02F0D7&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Building+Decentralized+Dreams+with+Solidity+💡;Frontend+to+Blockchain+:+Bridgin&#8203;g+both+worlds+🌐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02F0D7&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Building+Decentralized+Dreams+with+Solidity+💡;Frontend+to+Blockchain+:+Bridgin&#8203;g+both+worlds+🌐" alt="Typing SVG" />
 </p>
 
 ---
