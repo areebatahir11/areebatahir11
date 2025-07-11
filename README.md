@@ -17,19 +17,6 @@
 
 ---
 
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/areeba tahir" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Areeba Tahir" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/areeba11-tahir" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode - areeba11-tahir" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ### 🧰 Languages
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a>
