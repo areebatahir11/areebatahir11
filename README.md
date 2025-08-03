@@ -1,5 +1,5 @@
 <h1 align="center">I'm Areeba Tahir</h1>
-<h3 align="center">🚀 Web3 Explorer | Future Smart Contract Developer </h3>
+<h3 align="center">🚀 Web3 Explorer | Smart Contract Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02F0D7&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Building+Decentralized+Dreams+with+Solidity+💡;Frontend+to+Blockchain+:+Bridging+both+worlds+🌐" alt="Typing SVG" />
