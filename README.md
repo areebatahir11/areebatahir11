@@ -10,7 +10,7 @@
 ### 🔗 About Me
 
 🎓 I’m a passionate **Full Stack Learner**, diving deep into **Web3**, **Smart Contracts**, and **Decentralized Applications (dApps)**  
-🧠 I'm currently focused on mastering **Solidity** and building end-to-end projects using **Hardhat**, **IPFS**, and **React.js**  
+🧠 I'm currently focused on mastering **Solidity** and building end-to-end projects using **Hardhat**, and **Next.js**  
 💡 I enjoy solving problems, exploring new tech, and constantly pushing my boundaries  
 🎯 My goal is to become a confident **Smart Contract Developer** who can build impactful, secure, and scalable dApps  
 🌱 Always eager to learn, contribute to open-source, and grow with the blockchain community  
