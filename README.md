@@ -67,5 +67,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=areebatahir11&show_icons=true&theme=github_dark" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebatahir11&layout=compact&theme=github_dark&cache_seconds=0" />
 
-</p>/
+</p>
 
