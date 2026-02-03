@@ -1,71 +1,61 @@
-<h1 align="center">I'm Areeba Tahir</h1>
-<h3 align="center">🚀 Web3 Explorer | Smart Contract Developer</h3>
+<h1 align="center">Areeba Tahir</h1>
+<h3 align="center">Software Engineer | Blockchain developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02F0D7&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Building+Decentralized+Dreams+with+Solidity+💡;Frontend+to+Blockchain+:+Bridging+both+worlds+🌐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=262626&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Building+Decentralized+Dreams+with+Solidity+💡;Bridging+Web2+Robustness+and+Web3+innovation+🌐" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔗 About Me
+## 🔗 About Me
 
-🎓 I’m a passionate **Full Stack Learner**, diving deep into **Web3**, **Smart Contracts**, and **Decentralized Applications (dApps)**  
-🧠 I'm currently focused on mastering **Solidity** and building end-to-end projects using **Hardhat**, and **Next.js**  
-💡 I enjoy solving problems, exploring new tech, and constantly pushing my boundaries  
-🎯 My goal is to become a confident **Smart Contract Developer** who can build impactful, secure, and scalable dApps  
-🌱 Always eager to learn, contribute to open-source, and grow with the blockchain community  
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <!-- Blockchain -->
-  <a href="https://soliditylang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" /></a>
-  <a href="https://hardhat.org/" target="_blank"><img src="https://img.shields.io/badge/Hardhat-20232A?style=flat&logo=ethereum&logoColor=yellow" alt="hardhat" /></a>
-  <a href="https://ipfs.tech/" target="_blank"><img src="https://img.shields.io/badge/IPFS-46BC99?style=flat&logo=ipfs&logoColor=white" alt="ipfs" /></a>
-  <a href="https://docs.ethers.org/" target="_blank"><img src="https://img.shields.io/badge/Ethers.js-5E5CFF?style=flat&logo=ethereum&logoColor=white" alt="ethers.js" /></a>
-  
-  <!-- Frontend -->
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="next.js" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="tailwindcss" /></a>
-</p>
+🎓 I’m a **Software Engineer** with a strong focus on building reliable **Web2 systems** and deepening my expertise in **Blockchain & Web3 technologies**  
+🧠 Currently mastering **Solidity** and developing end-to-end applications that **bridge traditional backend systems with decentralized blockchain networks** using **Hardhat**, **Foundry**, and **Next.js**  
+💡 I enjoy working close to the logic layer, designing workflows, writing clean code, and integrating **frontend and backend.**  
+🎯 My long-term goal is to build **secure, scalable, real-world software products**, leveraging both **Web2 robustness** and **Web3 innovation**  
+🌱 Actively learning **API & backend development** to strengthen my foundation in **Software Engineering and system design**, while continuously advancing in blockchain solutions
 
 ---
 
-### 🧠 Skills
+<br>
 
-#### 👩‍💻 Programming Languages and Frameworks 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40" /></a>
-  <a href="https://rubyonrails.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
-</p>
+## 🛠️ Technical Skills
+
+**Blockchain & Web3**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=flat&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logo=ethereum&logoColor=white)
+
+**Frontend Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend Development**  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat&logo=rubyonrails&logoColor=white)
+
+**Databases** 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
-#### 🔧 Tools  
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /></a>
-  <a href="https://metamask.io/" target="_blank"><img src="https://img.shields.io/badge/MetaMask-E2761B?style=flat&logo=metamask&logoColor=white" alt="metamask" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>
-  <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" /></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="jira"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github"/></a>
-</p>
+**Tools & Workflow**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat&logo=metamask&logoColor=white)
+
+<br>
 
 ---
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=areebatahir11&show_icons=true&theme=github_dark" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebatahir11&layout=compact&theme=github_dark&cache_seconds=0" />
-
-</p>
-
