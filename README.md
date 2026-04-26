@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack | Blockchain Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=262626&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Building+Decentralized+Dreams+with+Solidity+💡;Bridging+Web2+Robustness+and+Web3+innovation+🌐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=50C878&center=true&vCenter=true&width=1000&height=60&lines=Turning+Ideas+into+Scalable+Systems+that+Matter+🚀" alt="Typing SVG" />
 </p>
 
 ---
