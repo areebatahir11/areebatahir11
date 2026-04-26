@@ -9,11 +9,10 @@
 
 ## 🔗 About Me
 
-🎓 I’m a **Software Engineer** with a strong focus on building reliable **Web2 systems** and deepening my expertise in **Blockchain & Web3 technologies**  
-🧠 Currently mastering **Solidity** and developing end-to-end applications that **bridge traditional backend systems with decentralized blockchain networks** using **Hardhat**, **Foundry**, and **Next.js**  
+🎓 I’m a **Software Engineer** with a strong focus on building reliable **Web2 systems** and deepening my expertise in **Blockchain & Web3 technologies** and **AI**.
 💡 I enjoy working close to the logic layer, designing workflows, writing clean code, and integrating **frontend and backend.**  
-🎯 My long-term goal is to build **secure, scalable, real-world software products**, leveraging both **Web2 robustness** and **Web3 innovation**  
-🌱 Actively learning **API & backend development** to strengthen my foundation in **Software Engineering and system design**, while continuously advancing in blockchain solutions
+🎯 My long-term goal is to build **secure, scalable, real-world software products**.  
+🌱 Actively learning and implementing **API & backend development** to strengthen my foundation in **Software Engineering and system design**.
 
 ---
 
@@ -33,6 +32,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-D30001?style=flat&logo=rubyonrails&logoColor=white)
 
